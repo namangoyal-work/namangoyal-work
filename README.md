@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Time Travellling File System](https://github.com/namangoyal-work/TimeTravellingFileSystem)
 
-- 🌱 I’m currently learning **Machine Learning and competitive programming**
+- 🌱 I’m currently learning **Quantum Computing and competitive programming**
 
 - 👨‍💻 All of my projects are available at [www.github.com/namangoyal-work](www.github.com/namangoyal-work)
 
