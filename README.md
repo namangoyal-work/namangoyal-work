@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Structures and Algorithms, Machine Learning**
 
-- 📫 How to reach me **goyalnaman.work@gmail.com**
+- 📫 How to reach me **mail.namangoyal@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
