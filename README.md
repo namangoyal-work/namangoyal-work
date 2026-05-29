@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namangoyal-work&label=Profile%20views&color=0e75b6&style=flat" alt="namangoyal-work" /> </p>
 
-- 🔭 I’m currently working on [Time Travellling File System](https://github.com/namangoyal-work/TimeTravellingFileSystem)
+- 🔭 I’m currently working on [Quantitatve Study of Security in RISC-V CPUs](https://github.com/namangoyal-work/Quantitative_Study_Of_Risc-V_Cpus)
 
-- 🌱 I’m currently learning **Quantum Computing and competitive programming**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [www.github.com/namangoyal-work](www.github.com/namangoyal-work)
 
-- 💬 Ask me about **Data Structures and Algorithms, Machine Learning**
+- 💬 Ask me about **Data Structures and Algorithms, Formal Verification**
 
-- 📫 How to reach me **mail.namangoyal@proton.me**
+- 📫 How to reach me **namangoyal2406@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
