@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naman Goyal</h1>
-<h3 align="center">Solving real world problems with the use of technology</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namangoyal-work&label=Profile%20views&color=0e75b6&style=flat" alt="namangoyal-work" /> </p>
 
