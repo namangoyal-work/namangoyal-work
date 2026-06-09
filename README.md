@@ -5,11 +5,7 @@
 
 - 🔭 I’m currently working on [Quantitatve Study of Security in RISC-V CPUs](https://github.com/namangoyal-work/Quantitative_Study_Of_Risc-V_Cpus)
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
-
 - 👨‍💻 All of my projects are available at [www.github.com/namangoyal-work](www.github.com/namangoyal-work)
-
-- 💬 Ask me about **Data Structures and Algorithms, Formal Verification**
 
 - 📫 How to reach me **namangoyal2406@icloud.com**
 
